@@ -1,2 +1,3 @@
 # gitimprove
-gitimprove,nice
+gitimprove,nice.
+I will be strong!
